@@ -1,0 +1,2 @@
+- Java 8(JDK1.8)
+- Gradle 4.8 ~ Gradle 4.10.2
